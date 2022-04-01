@@ -1,0 +1,16 @@
+.result {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+}
+
+.result-name {
+  margin-top: 20px;
+  font-size: 35px;
+}
+
+.final-score {
+  margin-top: 25px;
+  font-size: 45px;
+}

@@ -1,0 +1,22 @@
+.quiz {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.subtitle {
+  text-transform: uppercase;
+  font-size: 25px;
+  border: 3px solid black;
+  box-shadow: 10px 10px 12px #888888;
+  padding: 5px 10px;
+  font-family: "Red Hat Mono", monospace;
+}
+
+.quizInfo {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  text-transform: uppercase;
+  margin: 10px;
+}
